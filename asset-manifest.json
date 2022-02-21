@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/fitness-freak/static/css/main.073c9b0a.css",
+    "main.js": "/fitness-freak/static/js/main.4ca35dd4.js",
+    "static/js/377.82c9fec7.chunk.js": "/fitness-freak/static/js/377.82c9fec7.chunk.js",
+    "service-worker.js": "/fitness-freak/service-worker.js",
+    "static/media/logo.svg": "/fitness-freak/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/fitness-freak/index.html",
+    "main.073c9b0a.css.map": "/fitness-freak/static/css/main.073c9b0a.css.map",
+    "main.4ca35dd4.js.map": "/fitness-freak/static/js/main.4ca35dd4.js.map",
+    "377.82c9fec7.chunk.js.map": "/fitness-freak/static/js/377.82c9fec7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.4ca35dd4.js"
+  ]
+}
